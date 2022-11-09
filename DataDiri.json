@@ -30,6 +30,16 @@
             "projectname": "JsQR",
             "projectdescription": "membuat aplikasi scan code",
             "projectlink": "https://github.com/hidayatulmusrifah/hidayatulmusrifah.github.io"
+        },
+        "second": {
+            "projectname": "Data Diri",
+            "projectdescription": "Membuat data diri",
+            "projectlink": "https://github.com/hidayatulmusrifah/projectt"
+        },
+        "third": {
+            "projectname": "Aplikasi CRUD",
+            "projectdescription": "membuat aplikasi CRUD menggunakan Node.js dan MySQl",
+            "projectlink": "https://github.com/hidayatulmusrifah/project"
         }
     }
 }

@@ -1,0 +1,35 @@
+{
+    "id": 1,
+    "stuId": 5260,
+    "name": "Hidayatul Musrifah",
+    "track": "UI/UX",
+    "circle": 22,
+    "img": "https://avatars.githubusercontent.com/u/111473314?…00&u=5d7e19f9d165b49c191e17b87d5a4307344c3a29&v=4",
+
+    "description": {
+        "intro": "Halo saya ifah😁 saya sangat tertarik dengan dunia IT, saya ingin mempelajarinya hingga saya bisa menguasainya",
+        "introdetails": "UI/UX | Student @STAINU Pacitan | HTML | JavaScript"
+    },
+    "socialmedia": {
+        "instagram": "https://instagram.com/_ifaahm?igshid=YmMyMTA2M2Y=",
+        "github": "https://github.com/hidayatulmusrifah",
+        "twitter": "https://twitter.com/b0nekamu?t=5pemZj00MHJeyxc7VgJ2oA&s=09",
+        
+    },
+
+    "experience": {
+        "first": "TK Tunas Agung",
+        "second": "SDN Ngromo 1",
+        "third": "MTs Pondok Tremas",
+        "four": "MA Pondok Tremas",
+        "five": "STAI NU Pacitan"
+    },
+
+    "project": {
+        "first": {
+            "projectname": "JsQR",
+            "projectdescription": "membuat aplikasi scan code",
+            "projectlink": "https://github.com/hidayatulmusrifah/hidayatulmusrifah.github.io"
+        }
+    }
+}
